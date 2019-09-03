@@ -36,6 +36,7 @@ RUN apk add --no-cache \
     git \
     glib \
     gmp \
+    grep \
     iperf3 \
     libsodium \
     libwebp \
